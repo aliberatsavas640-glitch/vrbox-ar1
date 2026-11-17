@@ -1,0 +1,3 @@
+1) Bu dosyalari GitHub reposuna yukle (zip'i once cikar).
+2) build.yml dosyasini ac > kalem (Edit) > dosya adini  .github/workflows/build.yml  yap > Commit.
+3) Actions > Build APK > Run workflow > bitince Artifacts'tan APK indir.
